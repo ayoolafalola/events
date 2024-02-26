@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENT_ELEMENT table_name="recurringevents" creation_time="1708907520" modified_time="1708907520" table_version="0.4" module_version="1.00" table_class="Event_RecurringEvents" creation_ip="0">
+  <RECORDS autoId="7">
+    <TABLE_ROW ROW_ID="5">
+      <TABLE_FIELD FIELD_KEY="article_url"><![CDATA[/2024/02/26/sunday-service.html]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="frequency"><![CDATA[Weekly]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="interval"><![CDATA[1]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="advance_events"><![CDATA[2]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="creation_time"><![CDATA[1708944607]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__duuid"><![CDATA[957bfb6a-eeea-47ff-a073-26a88e0fc9c0]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__user_id"><![CDATA[1708638733.0828]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__ip"><![CDATA[{&quot;REMOTE_ADDR&quot;:&quot;::1&quot;,&quot;HTTP_CLIENT_IP&quot;:&quot;&quot;,&quot;HTTP_X_FORWARDED_FOR&quot;:&quot;&quot;}]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="article_content"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="cover_photo"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="datetime"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="next_date"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="end_date"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="recurringevents_id"><![CDATA[0-1708944607-5]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="modified_time"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__update_user_id"><![CDATA[null]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__user_agent_id"><![CDATA[]]></TABLE_FIELD>
+    </TABLE_ROW>
+    <TABLE_ROW ROW_ID="6">
+      <TABLE_FIELD FIELD_KEY="article_url"><![CDATA[/2024/02/26/ayoolas-birthday.html]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="frequency"><![CDATA[Yearly]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="interval"><![CDATA[1]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="advance_events"><![CDATA[4]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="creation_time"><![CDATA[1708949851]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__duuid"><![CDATA[957bfb6a-eeea-47ff-a073-26a88e0fc9c0]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__user_id"><![CDATA[1708638733.0828]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__ip"><![CDATA[{&quot;REMOTE_ADDR&quot;:&quot;::1&quot;,&quot;HTTP_CLIENT_IP&quot;:&quot;&quot;,&quot;HTTP_X_FORWARDED_FOR&quot;:&quot;&quot;}]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="article_content"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="cover_photo"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="datetime"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="next_date"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="end_date"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="recurringevents_id"><![CDATA[0-1708949851-6]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="modified_time"><![CDATA[]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__update_user_id"><![CDATA[null]]></TABLE_FIELD>
+      <TABLE_FIELD FIELD_KEY="__user_agent_id"><![CDATA[]]></TABLE_FIELD>
+    </TABLE_ROW>
+  </RECORDS>
+  <TABLE_SETTINGS>
+    <DATA_TYPES article_url="INPUTTEXT" article_content="INPUTTEXT" cover_photo="INPUTTEXT" frequency="INPUTTEXT" datetime="INPUTTEXT" next_date="INPUTTEXT" end_date="INPUTTEXT" interval="INT" advance_events="INT" recurringevents_id="INPUTTEXT" creation_time="INPUTTEXT" modified_time="INPUTTEXT" __user_id="INPUTTEXT" __update_user_id="JSON" __user_agent_id="INPUTTEXT" __ip="JSON" __duuid="INPUTTEXT"/>
+    <FOREIGN_KEYS/>
+    <RELATIVES/>
+  </TABLE_SETTINGS>
+</DOCUMENT_ELEMENT>

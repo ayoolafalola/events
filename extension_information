@@ -1,0 +1,57 @@
+{
+    "extension_title": "Events",
+    "modules": [
+        "\/Event\/Calendar.php",
+        "\/Event\/Data.php",
+        "\/Event\/RecurringEvents.php",
+        "\/Event\/RecurringEvents\/Abstract.php",
+        "\/Event\/RecurringEvents\/Creator.php",
+        "\/Event\/RecurringEvents\/Cron.php",
+        "\/Event\/RecurringEvents\/Delete.php",
+        "\/Event\/RecurringEvents\/Editor.php",
+        "\/Event\/RecurringEvents\/List.php"
+    ],
+    "settings_class": "",
+    "databases": [
+        "\/Ayoola\/Page\/Menu\/option.xml",
+        "\/Ayoola\/Page\/page.xml",
+        "\/PageCarton\/Cron\/table.xml"
+    ],
+    "documents": null,
+    "pages": [
+        "\/events",
+        "\/post-viewer-event"
+    ],
+    "extension_name": "events",
+    "files": [
+        "\/modules\/Event\/Calendar.php",
+        "\/modules\/Event\/Data.php",
+        "\/modules\/Event\/RecurringEvents.php",
+        "\/modules\/Event\/RecurringEvents\/Abstract.php",
+        "\/modules\/Event\/RecurringEvents\/Creator.php",
+        "\/modules\/Event\/RecurringEvents\/Cron.php",
+        "\/modules\/Event\/RecurringEvents\/Delete.php",
+        "\/modules\/Event\/RecurringEvents\/Editor.php",
+        "\/modules\/Event\/RecurringEvents\/List.php",
+        "\/databases\/Ayoola\/Page\/Menu\/option.xml",
+        "\/databases\/Ayoola\/Page\/Menu\/__\/option",
+        "\/databases\/Ayoola\/Page\/page.xml",
+        "\/databases\/Ayoola\/Page\/__\/page",
+        "\/databases\/PageCarton\/Cron\/table.xml",
+        "\/databases\/PageCarton\/Cron\/__\/table",
+        "\/pages\/data\/events.xml",
+        "\/pages\/data\/events.php",
+        "\/pages\/data\/events.json",
+        "\/pages\/data\/eventscontent.json",
+        "\/pages\/data\/eventspageinfo.json",
+        "\/pages\/templates\/events.phtml",
+        "\/pages\/includes\/events.php",
+        "\/pages\/data\/post-viewer-event.xml",
+        "\/pages\/data\/post-viewer-event.php",
+        "\/pages\/data\/post-viewer-event.json",
+        "\/pages\/data\/post-viewer-eventcontent.json",
+        "\/pages\/data\/post-viewer-eventpageinfo.json",
+        "\/pages\/templates\/post-viewer-event.phtml",
+        "\/pages\/includes\/post-viewer-event.php"
+    ]
+}
