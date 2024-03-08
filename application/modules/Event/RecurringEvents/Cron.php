@@ -121,7 +121,7 @@ class Event_RecurringEvents_Cron extends Event_RecurringEvents_Abstract
 
         
                     $eventData['datetime'] = date( 'o-m-d H:i', $nextDate );
-                    $values['article_creation_date'] = $nextDate;
+                    $eventData['article_creation_date'] = $nextDate;
                     $eventData['event_end_datetime'] = date( 'o-m-d H:i', $nextDate + $event_duration );
 
                     if( ! Application_Article_Creator::generateArticleUrl( $eventData ) )
