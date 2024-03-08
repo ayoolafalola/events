@@ -39,8 +39,6 @@ class Event_RecurringEvents_Cron extends Event_RecurringEvents_Abstract
 			foreach( Event_RecurringEvents::getInstance()->select() as $event )
             {
 
-                var_export(  $event['article_url'] );
-
                 $eventData = Application_Article_Abstract::loadPostData( $event );
 
                 //var_export(  $eventData );
